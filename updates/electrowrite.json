@@ -1,0 +1,10 @@
+{
+    "app": "ElectroWrite - Legacy",
+    "latestVersion": "0.0.169",
+    "releaseNotes": "First App Update!",
+    "downloadUrl": "https://github.com/ElectroGaming10/ElectroOffice-Suite-Legacy/raw/refs/heads/main/releases/download/v0.0.169/ElectroWrite%20-%20Legacy%20Update%20Install%20Setup%20(0.0.169).zip",
+    "mandatory": true,
+    "changes": [
+        "First App Update!"
+    ]
+}
